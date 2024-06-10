@@ -1,0 +1,23 @@
+				HR MANAGEMENT SYSTEM
+				______________________
+
+EMPLOYEE CODE:E003		EMPLOYEE NAME:SAMAIRA
+DESIGNATION:EDP		FOR MONTH:JANUARY		YEAR:2019
+_____________________________
+EARNINGS:	AMOUNT
+DA : 		 1250
+HRA:		 750
+WA :		 500
+
+TOTAL EARNINGS: 2500
+_____________________________
+DEDUCTIONS:	AMOUNT
+GPF: 		250
+IT : 		500
+GS : 		500
+PF : 		500
+LIC:		2000
+
+TOTAL DEDUCTIONS: 3750
+_____________________________
+NET SALARY: 23750
